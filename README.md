@@ -38,7 +38,8 @@ An external controller (such as the Arduino) tells the servo where to go with a 
 
 ### Figure-03 SERVO MOTOR OVERVIEW 
 
- 
+ ![summa](https://github.com/Samuelmariappan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/119393030/a466f4af-18fb-468f-85dd-0f1cfb736fc8)
+
 
 
  
@@ -78,4 +79,7 @@ CIRCUIT DIAGRAM
 
 
 ### RESULTS: 
+
+![sanjay](https://github.com/Samuelmariappan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/119393030/9353ad1e-4413-4ddb-8213-156f3d1d227a)
+
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
